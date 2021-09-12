@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 650px;
+  margin: auto;
+  
+}
+
+body{
+  background-color: #fae1dd;
+}
+
+
+#heading{
+  margin-top: 100px;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+#heading-three{
+  margin-top: 50px;
+  font-size: 1.5rem;
+  margin-bottom: 40px;
+}
+
+#output-cont{
+  margin-top: 50px;
+  font-size: 1.8rem;
+}
+
+input {
+  margin-top: 40px;
+  padding: 0.5rem;
+  width: 50%;
+  border-radius: 1.5rem;
+}
